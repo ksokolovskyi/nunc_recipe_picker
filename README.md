@@ -1,5 +1,7 @@
 # nunc. Coffee Recipe Picker
 
+https://github.com/user-attachments/assets/99f045f9-d32e-42a4-a84a-265daaf3cb41
+
 This demo is made with [Flutter][flutter].
 
 This project was inspired by the coffee recipe picker from the [nunc.][nunc] coffee machine.
